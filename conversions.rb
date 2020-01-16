@@ -4,6 +4,6 @@ def ounces_to_grams(ounces)
 end
 
 
-def meal_choice(veg, starch)
+def meal_choice(veg, starch,protein)
   "A plate of meat with #{veg} and #{starch}."
 end
