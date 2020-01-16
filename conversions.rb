@@ -4,5 +4,5 @@ def ounces_to_grams(ounces)
 end
 
 
-def meal_choice
+def meal_choice(arg1, arg2)
 end
